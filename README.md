@@ -1,4 +1,4 @@
-# Resume-Page
+
 https://github.com/Rithin240/Resume-Page 
 This project shows my career information or resume in the form of a webpage.
 This project helps me demonstrate my knowledge in building basic websites.
