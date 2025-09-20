@@ -4,3 +4,4 @@
  This project helps me demonstrate my knowledge in building basic websites.</p>
 <a href="https://github.com/Rithin240/Resume-Page/blob/main/Rithin.html">To open this project click here <a> 
 https://github.com/Rithin240/Resume-Page/blob/main/Rithin.html
+[Resume-Page]([url](https://github.com/Rithin240/Resume-Page)
